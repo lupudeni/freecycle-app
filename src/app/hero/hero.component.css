@@ -1,0 +1,19 @@
+
+.btn-white {
+    background-color: white;
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+    color: #00B686;
+}
+
+.btn-white:hover {
+    filter: grayscale(50%)
+}
+
+.hero-btn-call-to-action {
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+
+}
+
+.hero-btn-call-to-action:hover {
+filter: grayscale(50%);
+}

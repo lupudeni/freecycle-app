@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="160" height="160" viewBox="0 0 160 160">
+  <defs>
+    <clipPath id="clip-Button-Find">
+      <rect width="160" height="160"/>
+    </clipPath>
+  </defs>
+  <g id="Button-Find" clip-path="url(#clip-Button-Find)">
+    <g id="Group_188" data-name="Group 188" transform="translate(-68 -188)">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="80" cy="80" r="80" transform="translate(68 188)" fill="#fff"/>
+      <g id="Search" transform="translate(118 238)">
+        <path id="Path_2" data-name="Path 2" d="M7.625,26.688A18.877,18.877,0,0,1,26.688,7.625,18.877,18.877,0,0,1,45.75,26.688,18.877,18.877,0,0,1,26.688,45.75,18.877,18.877,0,0,1,7.625,26.688ZM54.519,59.856a3.774,3.774,0,0,0,5.338-5.338L48.038,42.7a26.1,26.1,0,0,0,5.337-16.013A26.523,26.523,0,0,0,26.688,0,26.523,26.523,0,0,0,0,26.688,26.523,26.523,0,0,0,26.688,53.375,26.1,26.1,0,0,0,42.7,48.038Z" fill="#1de9b6"/>
+      </g>
+    </g>
+  </g>
+</svg>

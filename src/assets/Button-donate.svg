@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="160" height="160" viewBox="0 0 160 160">
+  <defs>
+    <clipPath id="clip-Button-donate">
+      <rect width="160" height="160"/>
+    </clipPath>
+  </defs>
+  <g id="Button-donate" clip-path="url(#clip-Button-donate)">
+    <g id="Group_187" data-name="Group 187" transform="translate(-99 -102)">
+      <circle id="Ellipse_31" data-name="Ellipse 31" cx="80" cy="80" r="80" transform="translate(99 102)" fill="#fff"/>
+      <g id="volunteer_activism_black_24dp" transform="translate(134.191 147.525)">
+        <g id="Group_121" data-name="Group 121" transform="translate(26.47 14.022)">
+          <rect id="Rectangle_1110" data-name="Rectangle 1110" width="26" height="26" fill="rgba(0,0,0,0)"/>
+        </g>
+        <g id="Group_125" data-name="Group 125" transform="translate(27.46 16)">
+          <g id="Group_124" data-name="Group 124">
+            <g id="Group_123" data-name="Group 123">
+              <g id="Group_122" data-name="Group 122">
+                <path id="Path_224" data-name="Path 224" d="M26.629,32.486c8.564-7.788,16.629-15.077,16.629-21.34A9.05,9.05,0,0,0,34.112,2a10.024,10.024,0,0,0-7.483,3.464A10.07,10.07,0,0,0,19.146,2,9.05,9.05,0,0,0,10,11.146C10,17.409,18.065,24.7,26.629,32.486ZM19.146,7.543a4.407,4.407,0,0,1,3.27,1.524l4.213,4.961,4.213-4.961a4.407,4.407,0,0,1,3.27-1.524,3.528,3.528,0,0,1,3.6,3.6c0,3.1-5.654,8.786-11.086,13.83C21.2,19.931,15.543,14.222,15.543,11.146A3.528,3.528,0,0,1,19.146,7.543Z" transform="translate(18.9 -18)" fill="#1de9b6"/>
+                <path id="Path_225" data-name="Path 225" d="M73.194,29.292H65.173a10.657,10.657,0,0,0-7.5-9.878L32.966,11H1V51.243H25.065V45.975l28.075,7.1,32.086-9.146V40.268C85.226,34.195,79.852,29.292,73.194,29.292ZM9.022,43.926V18.317h8.022V43.926Zm44,1.5L25.065,38.365V18.317h6.457l23.343,7.939a3.279,3.279,0,0,1,2.286,3.037s-7.981-.183-9.225-.549l-9.546-2.89L35.854,32.8l9.546,2.89a21.745,21.745,0,0,0,6.337.951H73.194a4.092,4.092,0,0,1,3.61,2.049Z" transform="translate(-28.46 -0.122)" fill="#1de9b6"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

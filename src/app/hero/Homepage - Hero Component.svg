@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="976" viewBox="0 0 1920 976">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.087" y1="0.613" x2="0.89" y2="0.113" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1de9b6"/>
+      <stop offset="0.606" stop-color="#139675"/>
+      <stop offset="1" stop-color="#0f755b"/>
+    </linearGradient>
+    <clipPath id="clip-Homepage_-_Hero_Component">
+      <rect width="1920" height="976"/>
+    </clipPath>
+  </defs>
+  <g id="Homepage_-_Hero_Component" data-name="Homepage - Hero Component" clip-path="url(#clip-Homepage_-_Hero_Component)">
+    <path id="Path_229" data-name="Path 229" d="M78.132,788.129c-140.6,94.508-80.589,309.82,93.447,371,35.033,12.312,102.076,25.945,128.283,32.288,201.964,48.961,155.45,244.121,310.973,336.624,155.523,92.481,265.467-27.751,342.54-96.776,154.687-138.491,367.3,7.62,440.78-173.6,32.354-79.817,22.593-225.246,7.474-309.424-48.383-269.317-42.335-270.066,74.147-418.8,47.793-61.008,85.777-118.889,85.137-194.169-1.057-120.276-98.437-190.469-207.667-193.31-362.994-9.449-306.5,45.437-565.327-81.029C691.891,14.008,587.7-16.8,482.92,9.889,361.1,40.9,267.729,135.077,295.412,244.165,323.365,354.31,410.542,452.1,331.06,518.68,251.9,585,121.352,566.3,114.738,677.169c-.811,13.413,4.229,46.78,3.049,66.184C116.312,767.47,98.389,774.518,78.132,788.129Z" transform="translate(293.675 204.857) rotate(-43)" fill="url(#linear-gradient)"/>
+    <g id="Group_7" data-name="Group 7">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="1920" height="958" transform="matrix(-0.469, -0.883, 0.883, -0.469, 1559.421, 1822)" fill="none"/>
+    </g>
+  </g>
+</svg>

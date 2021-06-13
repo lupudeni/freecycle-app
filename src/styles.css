@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    /* background image for hero component -> should only be on main page */
+    /* todo figure out how to put this only on the main page  */
+    height: 976px;
+    background-image: url( 'src\app\Homepage - Hero Component.png');
+    background-size:contain; 
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
